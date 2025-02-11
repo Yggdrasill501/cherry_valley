@@ -5752,5 +5752,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_stairs": "2025-02-11 02:14:00 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
